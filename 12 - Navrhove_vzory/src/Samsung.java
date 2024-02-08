@@ -1,4 +1,4 @@
-public class Samsung {
+public class Samsung implements OS {
     public String color;
 
     public Samsung(String color) {
